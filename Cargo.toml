@@ -1,0 +1,9 @@
+[package]
+name = "aoc2021"
+version = "0.1.0"
+authors = [""]
+edition = "2018"
+default-run = "aoc2021"
+
+[dependencies]
+itertools = "0.10"
